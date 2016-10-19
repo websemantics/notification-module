@@ -10,6 +10,4 @@
 ```
 > Everything to do with being informed
 
-![Alt text](/path/to/img.jpg)
-
 ![icons](https://github.com/websemantics/notifications-module/raw/master/docs/notifications-module.png "icons")
