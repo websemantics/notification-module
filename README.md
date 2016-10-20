@@ -10,4 +10,4 @@
 ```
 > Everything to do with being informed
 
-![icons](https://github.com/websemantics/notification-module/raw/master/docs/notification-module-01.png "icons")
+![icons](https://github.com/websemantics/notification-module/raw/master/docs/notification-module-02.png "icons")
