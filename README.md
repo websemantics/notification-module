@@ -16,6 +16,7 @@
 
 - [Vertical Timeline](http://tympanus.net/Blueprints/VerticalTimeline/), A responsive vertical timeline layout with icons and example media queries, 
 - [Timeline](https://ant.design/components/timeline/), Vertical display timeline from Ant-Design
+- [Bright Box](https://www.brightbox.com/docs/guides/manager/getting-started), notifications
 
 ### License
 
